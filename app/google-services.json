@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "391990635598",
+    "firebase_url": "https://fir-logindemo.firebaseio.com",
+    "project_id": "fir-logindemo",
+    "storage_bucket": "fir-logindemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391990635598:android:843da96e675d3fab",
+        "android_client_info": {
+          "package_name": "com.dldemo.firebaselogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391990635598-ga454sdrp8pfecqpm7fql76hs952cvj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5bcGjQXRuTP5NRAFmrPKhIsRU-pyUy7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
